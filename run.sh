@@ -18,6 +18,7 @@ hugo
 cd public
 
 # 创建CNAME, DNS重定向
+touch CNAME
 echo "blog.kenger.work" > CNAME
 
 
