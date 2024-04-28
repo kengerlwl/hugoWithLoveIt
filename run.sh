@@ -16,6 +16,8 @@ hugo
 
 # 进入静态文件夹
 cd public
+
+# 创建CNAME, DNS重定向
 echo "blog.kenger.work" > CNAME
 
 
