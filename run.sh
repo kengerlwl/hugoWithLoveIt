@@ -11,8 +11,13 @@ rm -rf public/*
 mkdir public
 hugo
 
+ 
+
+
 # 进入静态文件夹
 cd public
+echo "blog.kenger.work" > CNAME
+
 
 # 初始化
 git init
