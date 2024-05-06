@@ -129,7 +129,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "./favicon-16x16.ico"
+      logo = "https://blog.kenger.work/favicon-16x16.ico"
       # title name
       # 标题名称
       name = "Kenger`s Blog"

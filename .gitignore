@@ -7,4 +7,4 @@
 node_modules/@babel/plugin-syntax-class-static-block/package.json
 /node_modules
 /public
-/content/posts/*
+/content/posts/copyMD/*
