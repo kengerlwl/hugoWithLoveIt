@@ -658,7 +658,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # 网站地图配置
 [sitemap]
   changefreq = "weekly"
-  filename = "zh-cn/sitemap.xml"
+  filename = "/sitemap.xml"
   priority = 0.5
 
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
