@@ -11,7 +11,9 @@ rm -rf public/*
 mkdir public
 hugo
 
- 
+
+# 复制google的验证文件
+cp google020baa8b42db4f8b.html ./public/google020baa8b42db4f8b.html
 
 
 # 进入静态文件夹
@@ -19,7 +21,7 @@ cd public
 
 # 创建CNAME, DNS重定向
 touch CNAME
-echo "blog.kenger.work" > CNAME
+# echo "blog.kenger.work" > CNAME
 
 
 # 初始化
