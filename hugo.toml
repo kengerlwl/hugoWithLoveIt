@@ -1,4 +1,4 @@
-baseURL = "https://blog.kenger.work/"
+baseURL = "https://kengerlwl.github.io/"
 
 # theme
 # 主题
@@ -53,7 +53,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "kenger"
   email = "kengerlwl@qq.com"
-  link = "https://blog.kenger.work/"
+  link = "https://kengerlwl.github.io/"
 
 # Menu config
 # 菜单配置
@@ -129,7 +129,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "https://blog.kenger.work/favicon-16x16.ico"
+      logo = "https://kengerlwl.github.io/favicon-16x16.ico"
       # title name
       # 标题名称
       name = "Kenger`s Blog"
@@ -790,7 +790,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         RSS = true
         [languages.en.params.social.Mastodon]
           id = "@kenger"
-          prefix = "https://blog.kenger.work/"
+          prefix = "https://kengerlwl.github.io/"
 
   [languages.zh-cn]
     weight = 2
