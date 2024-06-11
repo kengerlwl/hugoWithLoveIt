@@ -24,6 +24,10 @@ touch CNAME
 # echo "blog.kenger.work" > CNAME
 
 
+# 为了解决百度不能使用子站点地图，升级站点地图
+rm sitemap.xml
+cp ./zh-cn/sitemap.xml sitemap.xml
+
 # 初始化
 git init
 
