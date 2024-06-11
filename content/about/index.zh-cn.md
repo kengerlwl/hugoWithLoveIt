@@ -11,22 +11,36 @@ math:
   enable: true
 ---
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1000&color=F7F7F7&background=0B00FF&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+kenger" alt="Typing SVG" /></a>
 
-# Hi, this is kenger
+### 🤺 About Me
 
-![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
+<img align="right" width="88" src="https://kengerlwl.github.io/images/avatar.png" />
 
-- 喜欢没事写写脚本
-- 个人博客：[链接url](https://kengerlwl.github.io/)
-- 业余剪辑侠：[个人b站主页](https://space.bilibili.com/343042358)
+<p>&emsp;&emsp;这里是行者的个人Github主页</p>
+<p>&emsp;&emsp;计算机行业微不足道的萌新一枚</p>
+<p>&emsp;&emsp;喜欢没事写写脚本</p>
+<p>&emsp;&emsp;个人博客：<a href="https://kengerlwl.github.io/">链接url</a></p>
+<p>&emsp;&emsp;业余剪辑侠：<a href="https://space.bilibili.com/343042358">个人b站主页</a></p>
 
-<a href="https://github.com/kengerlwl">
-    <img src="https://github-readme-stats.vercel.app/api?username=kengerlwl" alt="GitHub Stats" style="width:70%;">
-</a>
-
-
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 
 
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=kengerlwl) -->
+
+<!-- Wakatime Graph-->
+
+
+
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture> -->
+
+  <img src="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-season-animate.svg" />
 
 # 我的项目
 [BirthdayBot](https://github.com/kengerlwl/birthdayBot)
