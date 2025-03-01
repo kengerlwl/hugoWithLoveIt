@@ -31,6 +31,10 @@ touch CNAME
 rm sitemap.xml
 cp ./zh-cn/sitemap.xml sitemap.xml
 
+# 执行bot添加脚本
+bash add_bot.sh
+rm add_bot.sh
+
 # 初始化
 git init
 
@@ -38,9 +42,7 @@ git init
 git config user.name "name"
 git config user.email "email"
 
-# 执行bot添加脚本
-bash add_bot.sh
-rm add_bot.sh
+
 
 # commit
 git add .
