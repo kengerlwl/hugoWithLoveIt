@@ -38,6 +38,10 @@ git init
 git config user.name "name"
 git config user.email "email"
 
+# 执行bot添加脚本
+bash add_bot.sh
+rm add_bot.sh
+
 # commit
 git add .
 git commit -m "$(date) Update from Action"
@@ -46,9 +50,7 @@ git commit -m "$(date) Update from Action"
 git branch gh-pages 
 git checkout gh-pages 
 
-# 执行bot添加脚本
-bash add_bot.sh
-rm add_bot.sh
+
 
 # 强制上传
 git push --force --quiet "https://kengerlwl:${GITHUB_TOKEN}@github.com/kengerlwl/kengerlwl.github.io.git"  gh-pages    
