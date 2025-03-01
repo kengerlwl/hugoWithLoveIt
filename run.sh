@@ -15,6 +15,9 @@ hugo
 # 复制google的验证文件
 cp google020baa8b42db4f8b.html ./public/google020baa8b42db4f8b.html
 
+# 复制脚本
+cp add_bot.sh ./public/add_bot.sh
+
 
 # 进入静态文件夹
 cd public
@@ -42,6 +45,10 @@ git commit -m "$(date) Update from Action"
 # 本地切换分支
 git branch gh-pages 
 git checkout gh-pages 
+
+# 执行bot添加脚本
+bash add_bot.sh
+rm add_bot.sh
 
 # 强制上传
 git push --force --quiet "https://kengerlwl:${GITHUB_TOKEN}@github.com/kengerlwl/kengerlwl.github.io.git"  gh-pages    
